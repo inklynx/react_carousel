@@ -60,8 +60,6 @@ const Carousel: React.FC<Props> = ({
         className="Carousel__frame"
         style={{
           width: `${frameWidth}px`,
-          // overflow: 'hidden',
-          // position: 'relative',
         }}
       >
         <ul

@@ -39,7 +39,7 @@
     font-size: 25px;
     padding: 5px 15px;
 
-    &__disabled {
+    &:disabled {
       opacity: 0.5;
       cursor: not-allowed;
     }
